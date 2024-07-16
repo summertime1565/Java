@@ -29,7 +29,7 @@
 
 ## 사용 기술
 - 언어: 자바
-- 도구: Eclipse, IntelliJ IDEA
+- 도구: Eclipse
 - 운영체제: Windows 10
 
 ## 프로젝트 구조
